@@ -1,5 +1,5 @@
-{
-    "Recipes":[
+[
+    [
         {
             "nameOfDish": "Pancakes",
             "dishImage": "https://example.com/pancakes.jpg",
@@ -386,7 +386,7 @@
             ]
         }
     ],
-    "Users":[
+    [
         {
             "user": "ChefJohn123",
             "firstName": "John",
@@ -612,4 +612,4 @@
             ]
         }
     ]
-}
+]
