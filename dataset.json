@@ -1,0 +1,615 @@
+{
+    "Recipes":[
+        {
+            "nameOfDish": "Pancakes",
+            "dishImage": "https://example.com/pancakes.jpg",
+            "user": "ChefJohn123",
+            "description": "Fluffy pancakes perfect for a weekend breakfast!",
+            "rating": 4.5,
+            "postedDate": "2023-11-22",
+            "likes": 120,
+            "saved": 75,
+            "views": 500,
+            "shared": 30,
+            "type": "Breakfast",
+            "difficulty": "Easy",
+            "prep_time": "10 minutes",
+            "cook_time": "15 minutes",
+            "ingredients": [
+            "1 cup all-purpose flour",
+            "2 tablespoons sugar",
+            "1 teaspoon baking powder",
+            "1/2 teaspoon baking soda",
+            "1/4 teaspoon salt",
+            "1 cup buttermilk",
+            "1 large egg",
+            "2 tablespoons unsalted butter, melted",
+            "1 teaspoon vanilla extract",
+            "Butter or oil for cooking"
+            ],
+            "instructions": [
+            "In a bowl, whisk together flour, sugar, baking powder, baking soda, and salt.",
+            "In another bowl, whisk together buttermilk, egg, melted butter, and vanilla extract.",
+            "Pour the wet ingredients into the dry ingredients and mix until just combined. Some lumps are okay.",
+            "Heat a griddle or non-stick skillet over medium heat and grease lightly with butter or oil.",
+            "Pour 1/4 cup of batter onto the griddle for each pancake. Cook until bubbles form on the surface, then flip and cook until golden brown.",
+            "Serve warm with maple syrup and fresh fruits."
+            ]
+        },
+        {
+            "nameOfDish": "Caesar Salad",
+            "dishImage": "https://example.com/caesar-salad.jpg",
+            "user": "ChefSaladLover",
+            "description": "Classic Caesar salad with homemade dressing.",
+            "rating": 4.8,
+            "postedDate": "2023-11-20",
+            "likes": 90,
+            "saved": 50,
+            "views": 380,
+            "shared": 25,
+            "type": "Salads",
+            "difficulty": "Intermediate",
+            "prep_time": "15 minutes",
+            "cook_time": "0 minutes",
+            "ingredients": [
+            "1 head romaine lettuce, chopped",
+            "1/2 cup croutons",
+            "1/4 cup grated Parmesan cheese",
+            "2 tablespoons lemon juice",
+            "2 tablespoons olive oil",
+            "1 clove garlic, minced",
+            "1 teaspoon Dijon mustard",
+            "Salt",
+            "Black pepper"
+            ],
+            "instructions": [
+            "In a small bowl, whisk together lemon juice, olive oil, minced garlic, Dijon mustard, salt, and black pepper to make the dressing.",
+            "In a large bowl, toss the chopped romaine lettuce with the dressing until evenly coated.",
+            "Top with croutons and grated Parmesan cheese before serving."
+            ]
+        },
+        {
+            "nameOfDish": "Lemon Garlic Butter Shrimp",
+            "dishImage": "https://example.com/shrimp-dish.jpg",
+            "user": "ChefSeafoodFanatic",
+            "description": "Buttery and flavorful shrimp cooked with garlic and lemon.",
+            "rating": 4.9,
+            "postedDate": "2023-11-18",
+            "likes": 150,
+            "saved": 80,
+            "views": 600,
+            "shared": 40,
+            "type": "Appetisers",
+            "difficulty": "Easy",
+            "prep_time": "10 minutes",
+            "cook_time": "10 minutes",
+            "ingredients": [
+            "1 pound large shrimp, peeled and deveined",
+            "2 tablespoons unsalted butter",
+            "4 cloves garlic, minced",
+            "2 tablespoons lemon juice",
+            "1/4 teaspoon red pepper flakes",
+            "Salt",
+            "Fresh parsley for garnish"
+            ],
+            "instructions": [
+            "Heat butter in a pan over medium heat. Add minced garlic and cook until fragrant.",
+            "Add shrimp to the pan and cook until they turn pink, about 2-3 minutes per side.",
+            "Pour lemon juice over the shrimp and sprinkle with red pepper flakes and salt. Toss to combine.",
+            "Garnish with fresh parsley before serving."
+            ]
+        },
+        {
+            "nameOfDish": "Chocolate Lava Cake",
+            "dishImage": "https://example.com/chocolate-lava-cake.jpg",
+            "user": "ChefChocoMaster",
+            "description": "Indulgent chocolate cake with a gooey center.",
+            "rating": 4.7,
+            "postedDate": "2023-11-15",
+            "likes": 200,
+            "saved": 110,
+            "views": 800,
+            "shared": 55,
+            "type": "Dessert",
+            "difficulty": "Intermediate",
+            "prep_time": "20 minutes",
+            "cook_time": "12 minutes",
+            "ingredients": [
+            "1/2 cup unsalted butter",
+            "4 ounces semi-sweet chocolate",
+            "1 cup powdered sugar",
+            "2 eggs",
+            "2 egg yolks",
+            "1/2 teaspoon vanilla extract",
+            "1/4 cup all-purpose flour",
+            "Pinch of salt"
+            ],
+            "instructions": [
+            "Preheat oven to 425°F (220°C). Grease four ramekins or small molds with butter and dust with cocoa powder.",
+            "In a microwave-safe bowl, melt butter and semi-sweet chocolate together. Stir until smooth.",
+            "In another bowl, whisk together powdered sugar, eggs, egg yolks, and vanilla extract until well combined.",
+            "Pour the melted chocolate mixture into the egg mixture and stir until smooth.",
+            "Add flour and a pinch of salt, and gently fold until just combined.",
+            "Divide the batter among the prepared ramekins. Place them on a baking sheet and bake for about 12 minutes.",
+            "Let the cakes cool for a minute, then carefully invert them onto serving plates. Serve warm."
+            ]
+        },
+        {
+            "nameOfDish": "Chicken Alfredo",
+            "dishImage": "https://example.com/chicken-alfredo.jpg",
+            "user": "ChefItalianCuisine",
+            "description": "Creamy pasta dish with tender chicken and Parmesan sauce.",
+            "rating": 4.6,
+            "postedDate": "2023-11-12",
+            "likes": 180,
+            "saved": 95,
+            "views": 700,
+            "shared": 45,
+            "type": "Pasta",
+            "difficulty": "Intermediate",
+            "prep_time": "25 minutes",
+            "cook_time": "20 minutes",
+            "ingredients": [
+            "8 ounces fettuccine pasta",
+            "2 boneless, skinless chicken breasts, sliced",
+            "2 tablespoons olive oil",
+            "3 cloves garlic, minced",
+            "1 cup heavy cream",
+            "1 cup grated Parmesan cheese",
+            "Salt",
+            "Black pepper",
+            "Chopped parsley for garnish"
+            ],
+            "instructions": [
+            "Cook fettuccine pasta according to package instructions. Drain and set aside.",
+            "Heat olive oil in a pan over medium-high heat. Cook sliced chicken until browned and cooked through. Remove from the pan and set aside.",
+            "In the same pan, add minced garlic and cook until fragrant. Pour in heavy cream and bring to a simmer.",
+            "Add grated Parmesan cheese and stir until the sauce thickens. Season with salt and black pepper to taste.",
+            "Add the cooked pasta and chicken to the sauce. Toss until everything is coated in the sauce.",
+            "Garnish with chopped parsley before serving."
+            ]
+        },
+        {
+            "nameOfDish": "Vegetable Stir-Fry",
+            "dishImage": "https://example.com/vegetable-stir-fry.jpg",
+            "user": "HealthyEatingChef",
+            "description": "Colorful and nutritious stir-fried vegetables.",
+            "rating": 4.5,
+            "postedDate": "2023-11-10",
+            "likes": 150,
+            "saved": 85,
+            "views": 600,
+            "shared": 40,
+            "type": "Appetisers",
+            "difficulty": "Easy",
+            "prep_time": "15 minutes",
+            "cook_time": "10 minutes",
+            "ingredients": [
+            "2 cups broccoli florets",
+            "1 cup sliced bell peppers (assorted colors)",
+            "1 cup sliced carrots",
+            "1 cup snap peas",
+            "1/2 cup sliced mushrooms",
+            "2 tablespoons soy sauce",
+            "1 tablespoon sesame oil",
+            "1 tablespoon cornstarch",
+            "2 cloves garlic, minced",
+            "1 teaspoon grated ginger",
+            "1 tablespoon vegetable oil for cooking"
+            ],
+            "instructions": [
+            "In a small bowl, mix soy sauce, sesame oil, cornstarch, minced garlic, and grated ginger to make the sauce.",
+            "Heat vegetable oil in a wok or large skillet over high heat.",
+            "Add broccoli, bell peppers, carrots, snap peas, and mushrooms. Stir-fry for a few minutes until vegetables are tender-crisp.",
+            "Pour the sauce over the vegetables and toss to coat evenly. Cook for another minute until the sauce thickens.",
+            "Serve the vegetable stir-fry hot as a side dish or over rice."
+            ]
+        },
+        {
+            "nameOfDish": "Banana Bread",
+            "dishImage": "https://example.com/banana-bread.jpg",
+            "user": "BakerExtraordinaire",
+            "description": "Moist and delicious homemade banana bread.",
+            "rating": 4.9,
+            "postedDate": "2023-11-08",
+            "likes": 220,
+            "saved": 120,
+            "views": 900,
+            "shared": 60,
+            "type": "Dessert",
+            "difficulty": "Easy",
+            "prep_time": "15 minutes",
+            "cook_time": "60 minutes",
+            "ingredients": [
+            "2 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/4 teaspoon salt",
+            "1/2 cup unsalted butter, softened",
+            "3/4 cup brown sugar",
+            "2 large eggs",
+            "3 ripe bananas, mashed",
+            "1/3 cup plain yogurt or sour cream",
+            "1 teaspoon vanilla extract",
+            "Chopped nuts or chocolate chips (optional)"
+            ],
+            "instructions": [
+            "Preheat oven to 350°F (175°C). Grease a 9x5-inch loaf pan.",
+            "In a bowl, whisk together flour, baking soda, and salt.",
+            "In another bowl, cream together softened butter and brown sugar. Add eggs one at a time, beating well after each addition.",
+            "Stir in mashed bananas, yogurt (or sour cream), and vanilla extract.",
+            "Gradually add the dry ingredients to the wet ingredients, mixing until just combined. Fold in chopped nuts or chocolate chips if using.",
+            "Pour the batter into the prepared loaf pan and bake for about 60 minutes, or until a toothpick inserted into the center comes out clean.",
+            "Let the banana bread cool in the pan for 10 minutes before transferring it to a wire rack to cool completely."
+            ]
+        },
+        {
+            "nameOfDish": "Grilled Salmon with Lemon-Herb Butter",
+            "dishImage": "https://example.com/grilled-salmon.jpg",
+            "user": "SeafoodChef",
+            "description": "Flavorful grilled salmon fillets with a zesty lemon-herb butter.",
+            "rating": 4.8,
+            "postedDate": "2023-11-06",
+            "likes": 190,
+            "saved": 105,
+            "views": 750,
+            "shared": 50,
+            "type": "Main Course",
+            "difficulty": "Intermediate",
+            "prep_time": "10 minutes",
+            "cook_time": "10 minutes",
+            "ingredients": [
+            "4 salmon fillets",
+            "4 tablespoons unsalted butter, softened",
+            "2 tablespoons chopped fresh herbs (such as parsley, dill, and chives)",
+            "Zest of 1 lemon",
+            "1 tablespoon lemon juice",
+            "Salt",
+            "Black pepper",
+            "Olive oil for grilling"
+            ],
+            "instructions": [
+            "Preheat the grill to medium-high heat.",
+            "In a small bowl, combine softened butter, chopped fresh herbs, lemon zest, lemon juice, salt, and black pepper to make the lemon-herb butter.",
+            "Season the salmon fillets with salt and pepper. Brush the grill grates with olive oil to prevent sticking.",
+            "Place the salmon fillets on the grill and cook for about 4-5 minutes per side, or until they are cooked through and have grill marks.",
+            "During the last minute of grilling, top each salmon fillet with a spoonful of lemon-herb butter to melt over the fish.",
+            "Remove the salmon from the grill and serve immediately."
+            ]
+        },
+        {
+            "nameOfDish": "Tomato Basil Pasta",
+            "dishImage": "https://example.com/tomato-basil-pasta.jpg",
+            "user": "ItalianFoodFanatic",
+            "description": "Simple and flavorful pasta tossed in a fresh tomato and basil sauce.",
+            "rating": 4.7,
+            "postedDate": "2023-11-04",
+            "likes": 160,
+            "saved": 90,
+            "views": 680,
+            "shared": 48,
+            "type": "Pasta",
+            "difficulty": "Easy",
+            "prep_time": "10 minutes",
+            "cook_time": "20 minutes",
+            "ingredients": [
+            "8 ounces spaghetti or pasta of choice",
+            "2 tablespoons olive oil",
+            "4 cloves garlic, minced",
+            "4 cups diced tomatoes",
+            "1/4 cup chopped fresh basil leaves",
+            "Salt",
+            "Black pepper",
+            "Grated Parmesan cheese for serving"
+            ],
+            "instructions": [
+            "Cook the pasta according to package instructions. Drain and set aside.",
+            "In a pan, heat olive oil over medium heat. Add minced garlic and cook until fragrant.",
+            "Add diced tomatoes to the pan and let it simmer for about 10-15 minutes until the tomatoes break down and form a sauce.",
+            "Season the tomato sauce with salt and black pepper. Add chopped fresh basil and stir to combine.",
+            "Add the cooked pasta to the sauce and toss until the pasta is coated evenly.",
+            "Serve the tomato basil pasta hot, garnished with grated Parmesan cheese."
+            ]
+        },
+        {
+            "nameOfDish": "Mushroom Risotto",
+            "dishImage": "https://example.com/mushroom-risotto.jpg",
+            "user": "RisottoMasterChef",
+            "description": "Creamy and savory mushroom risotto made with Arborio rice.",
+            "rating": 4.9,
+            "postedDate": "2023-11-02",
+            "likes": 210,
+            "saved": 115,
+            "views": 850,
+            "shared": 60,
+            "type": "Main Course",
+            "difficulty": "Intermediate",
+            "prep_time": "15 minutes",
+            "cook_time": "30 minutes",
+            "ingredients": [
+            "1 1/2 cups Arborio rice",
+            "6 cups chicken or vegetable broth",
+            "2 tablespoons olive oil",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "12 ounces mushrooms (such as cremini or shiitake), sliced",
+            "1/2 cup dry white wine",
+            "1/2 cup grated Parmesan cheese",
+            "2 tablespoons unsalted butter",
+            "Salt",
+            "Black pepper",
+            "Chopped fresh parsley for garnish"
+            ],
+            "instructions": [
+            "In a saucepan, heat the chicken or vegetable broth over low heat.",
+            "In a separate large pan, heat olive oil over medium heat. Add chopped onion and cook until translucent.",
+            "Add minced garlic and sliced mushrooms to the pan. Cook until the mushrooms are golden brown.",
+            "Add Arborio rice to the pan and stir to coat the rice with the oil, onions, and mushrooms.",
+            "Pour in the white wine and cook until it's absorbed by the rice.",
+            "Begin adding the warm broth to the rice, one ladleful at a time, stirring frequently and allowing each addition to be absorbed before adding more. Continue until the rice is creamy and al dente.",
+            "Stir in grated Parmesan cheese and unsalted butter. Season with salt and black pepper.",
+            "Garnish with chopped fresh parsley before serving."
+            ]
+        },
+        {
+            "nameOfDish": "Greek Salad",
+            "dishImage": "https://example.com/greek-salad.jpg",
+            "user": "MediterraneanCuisine",
+            "description": "A refreshing salad featuring crisp vegetables and tangy feta cheese.",
+            "rating": 4.7,
+            "postedDate": "2023-10-30",
+            "likes": 175,
+            "saved": 100,
+            "views": 720,
+            "shared": 55,
+            "type": "Salads",
+            "difficulty": "Easy",
+            "prep_time": "15 minutes",
+            "cook_time": "0 minutes",
+            "ingredients": [
+            "2 large tomatoes, diced",
+            "1 cucumber, sliced",
+            "1 red bell pepper, diced",
+            "1/2 red onion, thinly sliced",
+            "1/2 cup Kalamata olives, pitted",
+            "4 ounces feta cheese, crumbled",
+            "2 tablespoons extra virgin olive oil",
+            "1 tablespoon red wine vinegar",
+            "1 teaspoon dried oregano",
+            "Salt",
+            "Black pepper"
+            ],
+            "instructions": [
+            "In a large bowl, combine diced tomatoes, sliced cucumber, diced red bell pepper, thinly sliced red onion, and Kalamata olives.",
+            "In a small bowl, whisk together extra virgin olive oil, red wine vinegar, dried oregano, salt, and black pepper to make the dressing.",
+            "Pour the dressing over the salad ingredients and toss to coat everything evenly.",
+            "Top the salad with crumbled feta cheese before serving."
+            ]
+        }
+    ],
+    "Users":[
+        {
+            "user": "ChefJohn123",
+            "firstName": "John",
+            "lastName": "Smith",
+            "profilePicture": "https://example.com/avatar1.jpg",
+            "nFollowers": 500,
+            "followers": [
+            "User1",
+            "User2",
+            "User3"
+            ],
+            "nFollowing": 300,
+            "following": [
+            "User4",
+            "User5",
+            "User6"
+            ],
+            "numberOfPosts": 75,
+            "bio": "Passionate about creating delicious and easy-to-make recipes. Join me in exploring the world of cooking!",
+            "location": "New York City, USA",
+            "email": "johnsmith@example.com",
+            "likedPosts": [
+            "Pancakes",
+            "Caesar Salad",
+            "Chocolate Lava Cake"
+            ],
+            "savedRecipes": [
+            "Lemon Garlic Butter Shrimp",
+            "Banana Bread",
+            "Grilled Salmon with Lemon-Herb Butter"
+            ]
+        },
+        {
+            "user": "BakingQueen89",
+            "firstName": "Emma",
+            "lastName": "Johnson",
+            "profilePicture": "https://example.com/avatar2.jpg",
+            "nFollowers": 1200,
+            "followers": [
+            "User7",
+            "User8",
+            "User9"
+            ],
+            "nFollowing": 500,
+            "following": [
+            "User10",
+            "User11",
+            "User12"
+            ],
+            "numberOfPosts": 90,
+            "bio": "Sharing my passion for baking through delightful recipes and tips. Let's bake some happiness!",
+            "location": "San Francisco, USA",
+            "email": "emmajohnson@example.com",
+            "likedPosts": [
+            "Banana Bread",
+            "Chocolate Lava Cake",
+            "Mushroom Risotto"
+            ],
+            "savedRecipes": [
+            "Greek Salad",
+            "Tomato Basil Pasta",
+            "Vegetable Stir-Fry"
+            ]
+        },
+        {
+            "user": "FitnessFoodie21",
+            "firstName": "Alex",
+            "lastName": "Taylor",
+            "profilePicture": "https://example.com/avatar3.jpg",
+            "nFollowers": 800,
+            "followers": [
+            "User13",
+            "User14",
+            "User15"
+            ],
+            "nFollowing": 300,
+            "following": [
+            "User16",
+            "User17",
+            "User18"
+            ],
+            "numberOfPosts": 65,
+            "bio": "Fueling workouts with delicious and nutritious meals. Let's achieve fitness goals together!",
+            "location": "Los Angeles, USA",
+            "email": "alextaylor@example.com",
+            "likedPosts": [
+            "Grilled Salmon with Lemon-Herb Butter",
+            "Vegetable Stir-Fry",
+            "Greek Salad"
+            ],
+            "savedRecipes": [
+            "Lemon Garlic Butter Shrimp",
+            "Chicken Alfredo",
+            "Tomato Basil Pasta"
+            ]
+        },
+        {
+            "user": "SmoothieFanatic",
+            "firstName": "Sophia",
+            "lastName": "Clark",
+            "profilePicture": "https://example.com/avatar4.jpg",
+            "nFollowers": 600,
+            "followers": [
+            "User19",
+            "User20",
+            "User21"
+            ],
+            "nFollowing": 200,
+            "following": [
+            "User22",
+            "User23",
+            "User24"
+            ],
+            "numberOfPosts": 50,
+            "bio": "Diving into the world of healthy smoothies! Join me for delicious blends and wellness tips.",
+            "location": "Miami, USA",
+            "email": "sophiaclark@example.com",
+            "likedPosts": [
+            "Banana Bread",
+            "Greek Salad",
+            "Chocolate Lava Cake"
+            ],
+            "savedRecipes": [
+            "Mushroom Risotto",
+            "Vegetable Stir-Fry",
+            "Tomato Basil Pasta"
+            ]
+        },
+        {
+            "user": "GrillMasterChef",
+            "firstName": "David",
+            "lastName": "Anderson",
+            "profilePicture": "https://example.com/avatar5.jpg",
+            "nFollowers": 900,
+            "followers": [
+            "User25",
+            "User26",
+            "User27"
+            ],
+            "nFollowing": 400,
+            "following": [
+            "User28",
+            "User29",
+            "User30"
+            ],
+            "numberOfPosts": 80,
+            "bio": "Passionate about grilling! Sharing my BBQ recipes and techniques for juicy and flavorful dishes.",
+            "location": "Austin, USA",
+            "email": "davidanderson@example.com",
+            "likedPosts": [
+            "Grilled Salmon with Lemon-Herb Butter",
+            "Lemon Garlic Butter Shrimp",
+            "Chicken Alfredo"
+            ],
+            "savedRecipes": [
+            "Pancakes",
+            "Chocolate Lava Cake",
+            "Greek Salad"
+            ]
+        },
+        {
+            "user": "VeganFoodie23",
+            "firstName": "Ava",
+            "lastName": "Garcia",
+            "profilePicture": "https://example.com/avatar6.jpg",
+            "nFollowers": 1100,
+            "followers": [
+            "User31",
+            "User32",
+            "User33"
+            ],
+            "nFollowing": 600,
+            "following": [
+            "User34",
+            "User35",
+            "User36"
+            ],
+            "numberOfPosts": 95,
+            "bio": "Exploring the world of plant-based cooking! Sharing tasty vegan recipes for a compassionate lifestyle.",
+            "location": "Portland, USA",
+            "email": "avagarcia@example.com",
+            "likedPosts": [
+            "Mushroom Risotto",
+            "Tomato Basil Pasta",
+            "Vegetable Stir-Fry"
+            ],
+            "savedRecipes": [
+            "Banana Bread",
+            "Greek Salad",
+            "Chocolate Lava Cake"
+            ]
+        },
+        {
+            "user": "SpiceMasterChef",
+            "firstName": "Olivia",
+            "lastName": "Robinson",
+            "profilePicture": "https://example.com/avatar7.jpg",
+            "nFollowers": 750,
+            "followers": [
+            "User37",
+            "User38",
+            "User39"
+            ],
+            "nFollowing": 250,
+            "following": [
+            "User40",
+            "User41",
+            "User42"
+            ],
+            "numberOfPosts": 70,
+            "bio": "Passionate about spices and exotic flavors! Join me in exploring diverse cuisines and unique recipes.",
+            "location": "London, UK",
+            "email": "oliviarobinson@example.com",
+            "likedPosts": [
+            "Grilled Salmon with Lemon-Herb Butter",
+            "Chocolate Lava Cake",
+            "Lemon Garlic Butter Shrimp"
+            ],
+            "savedRecipes": [
+            "Pancakes",
+            "Chicken Alfredo",
+            "Greek Salad"
+            ]
+        }
+    ]
+}
