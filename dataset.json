@@ -2,7 +2,7 @@
     "Recipes":[
         {
             "nameOfDish": "Pancakes",
-            "dishImage": "https://example.com/pancakes.jpg",
+            "dishImage": "https://handletheheat.com/wp-content/uploads/2019/02/The-Best-Pancake-Recipe-SQUARE-500x375.jpg",
             "user": "ChefJohn123",
             "description": "Fluffy pancakes perfect for a weekend breakfast!",
             "rating": 4.5,
@@ -38,7 +38,7 @@
         },
         {
             "nameOfDish": "Caesar Salad",
-            "dishImage": "https://example.com/caesar-salad.jpg",
+            "dishImage": "https://www.healthyseasonalrecipes.com/wp-content/uploads/2023/05/ceasar-salad-dressing-sq-031.jpg",
             "user": "ChefSaladLover",
             "description": "Classic Caesar salad with homemade dressing.",
             "rating": 4.8,
@@ -70,7 +70,7 @@
         },
         {
             "nameOfDish": "Lemon Garlic Butter Shrimp",
-            "dishImage": "https://example.com/shrimp-dish.jpg",
+            "dishImage": "https://www.wholesomeyum.com/lemon-garlic-butter-shrimp/",
             "user": "ChefSeafoodFanatic",
             "description": "Buttery and flavorful shrimp cooked with garlic and lemon.",
             "rating": 4.9,
@@ -101,7 +101,7 @@
         },
         {
             "nameOfDish": "Chocolate Lava Cake",
-            "dishImage": "https://example.com/chocolate-lava-cake.jpg",
+            "dishImage": "https://preppykitchen.com/wp-content/uploads/2022/03/Chocolate-Lava-Cake-Recipe.jpg",
             "user": "ChefChocoMaster",
             "description": "Indulgent chocolate cake with a gooey center.",
             "rating": 4.7,
@@ -136,7 +136,7 @@
         },
         {
             "nameOfDish": "Chicken Alfredo",
-            "dishImage": "https://example.com/chicken-alfredo.jpg",
+            "dishImage": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Chicken-Alfredo-above.jpg",
             "user": "ChefItalianCuisine",
             "description": "Creamy pasta dish with tender chicken and Parmesan sauce.",
             "rating": 4.6,
