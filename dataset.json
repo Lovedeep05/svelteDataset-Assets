@@ -1,5 +1,5 @@
-[
-    [
+{
+    "Recipes":[
         {
             "nameOfDish": "Pancakes",
             "dishImage": "https://example.com/pancakes.jpg",
@@ -386,7 +386,7 @@
             ]
         }
     ],
-    [
+    "Users":[
         {
             "user": "ChefJohn123",
             "firstName": "John",
@@ -612,7 +612,7 @@
             ]
         }
     ],
-    [
+    "Categories":[
         {
         "name":"Breakfast",
         "img":"https://confessionsofagroceryaddict.com/wp-content/uploads/2023/07/Breakfast-Banana-Split-Parfait-hero-6.jpg"
@@ -642,4 +642,4 @@
         "img":"https://confessionsofagroceryaddict.com/wp-content/uploads/2023/07/Breakfast-Banana-Split-Parfait-hero-6.jpg"
         }
     ]
-]
+}
