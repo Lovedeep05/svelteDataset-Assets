@@ -171,7 +171,7 @@
         },
         {
             "nameOfDish": "Vegetable Stir-Fry",
-            "dishImage": "https://example.com/vegetable-stir-fry.jpg",
+            "dishImage": "https://peasandcrayons.com/wp-content/uploads/2020/12/vegetable-stir-fry-noodles-recipe-.jpg",
             "user": "HealthyEatingChef",
             "description": "Colorful and nutritious stir-fried vegetables.",
             "rating": 4.5,
@@ -207,7 +207,7 @@
         },
         {
             "nameOfDish": "Banana Bread",
-            "dishImage": "https://example.com/banana-bread.jpg",
+            "dishImage": "https://bluebowlrecipes.com/wp-content/uploads/2023/02/chocolate-chip-banana-bread-0781.jpg",
             "user": "BakerExtraordinaire",
             "description": "Moist and delicious homemade banana bread.",
             "rating": 4.9,
@@ -244,7 +244,7 @@
         },
         {
             "nameOfDish": "Grilled Salmon with Lemon-Herb Butter",
-            "dishImage": "https://example.com/grilled-salmon.jpg",
+            "dishImage": "https://www.cookingclassy.com/wp-content/uploads/2018/05/grilled-lemon-herb-salmon-7-500x500.jpg",
             "user": "SeafoodChef",
             "description": "Flavorful grilled salmon fillets with a zesty lemon-herb butter.",
             "rating": 4.8,
@@ -278,7 +278,7 @@
         },
         {
             "nameOfDish": "Tomato Basil Pasta",
-            "dishImage": "https://example.com/tomato-basil-pasta.jpg",
+            "dishImage": "https://shortgirltallorder.com/wp-content/uploads/2021/06/tomato-basil-pasta-square.jpg",
             "user": "ItalianFoodFanatic",
             "description": "Simple and flavorful pasta tossed in a fresh tomato and basil sauce.",
             "rating": 4.7,
@@ -312,7 +312,7 @@
         },
         {
             "nameOfDish": "Mushroom Risotto",
-            "dishImage": "https://example.com/mushroom-risotto.jpg",
+            "dishImage": "https://www.afamilyfeast.com/wp-content/uploads/2012/11/Mushroom-Risotto-3.jpg",
             "user": "RisottoMasterChef",
             "description": "Creamy and savory mushroom risotto made with Arborio rice.",
             "rating": 4.9,
@@ -352,7 +352,7 @@
         },
         {
             "nameOfDish": "Greek Salad",
-            "dishImage": "https://example.com/greek-salad.jpg",
+            "dishImage": "https://hips.hearstapps.com/hmg-prod/images/greek-salad-index-642f292397bbf.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*",
             "user": "MediterraneanCuisine",
             "description": "A refreshing salad featuring crisp vegetables and tangy feta cheese.",
             "rating": 4.7,
