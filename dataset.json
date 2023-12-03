@@ -70,7 +70,7 @@
         },
         {
             "nameOfDish": "Lemon Garlic Butter Shrimp",
-            "dishImage": "https://www.wholesomeyum.com/wp-content/uploads/2022/01/wholesomeyum-Lemon-Garlic-Butter-Shrimp-Recipe-19.jpg",
+            "dishImage": "https://www.wholesomeyum.com/lemon-garlic-butter-shrimp/",
             "user": "ChefSeafoodFanatic",
             "description": "Buttery and flavorful shrimp cooked with garlic and lemon.",
             "rating": 4.9,
@@ -102,9 +102,9 @@
         {
             "nameOfDish": "Chocolate Lava Cake",
             "dishImage": "https://preppykitchen.com/wp-content/uploads/2022/03/Chocolate-Lava-Cake-Recipe.jpg",
-            "user": "ChefChocoMaster",
+            "user": "velia",
             "description": "Indulgent chocolate cake with a gooey center.",
-            "rating": 4.7,
+            "rating": 3,
             "postedDate": "2023-11-15",
             "likes": 200,
             "saved": 110,
@@ -137,7 +137,7 @@
         {
             "nameOfDish": "Chicken Alfredo",
             "dishImage": "https://www.budgetbytes.com/wp-content/uploads/2022/07/Chicken-Alfredo-above.jpg",
-            "user": "ChefItalianCuisine",
+            "user": "velia",
             "description": "Creamy pasta dish with tender chicken and Parmesan sauce.",
             "rating": 4.6,
             "postedDate": "2023-11-12",
@@ -171,10 +171,10 @@
         },
         {
             "nameOfDish": "Vegetable Stir-Fry",
-            "dishImage": "https://peasandcrayons.com/wp-content/uploads/2020/12/vegetable-stir-fry-noodles-recipe-.jpg",
-            "user": "HealthyEatingChef",
+            "dishImage": "https://example.com/vegetable-stir-fry.jpg",
+            "user": "velia",
             "description": "Colorful and nutritious stir-fried vegetables.",
-            "rating": 4.5,
+            "rating": 1,
             "postedDate": "2023-11-10",
             "likes": 150,
             "saved": 85,
@@ -207,8 +207,8 @@
         },
         {
             "nameOfDish": "Banana Bread",
-            "dishImage": "https://bluebowlrecipes.com/wp-content/uploads/2023/02/chocolate-chip-banana-bread-0781.jpg",
-            "user": "BakerExtraordinaire",
+            "dishImage": "https://example.com/banana-bread.jpg",
+            "user": "velia",
             "description": "Moist and delicious homemade banana bread.",
             "rating": 4.9,
             "postedDate": "2023-11-08",
@@ -244,7 +244,7 @@
         },
         {
             "nameOfDish": "Grilled Salmon with Lemon-Herb Butter",
-            "dishImage": "https://www.cookingclassy.com/wp-content/uploads/2018/05/grilled-lemon-herb-salmon-7-500x500.jpg",
+            "dishImage": "https://example.com/grilled-salmon.jpg",
             "user": "SeafoodChef",
             "description": "Flavorful grilled salmon fillets with a zesty lemon-herb butter.",
             "rating": 4.8,
@@ -278,10 +278,10 @@
         },
         {
             "nameOfDish": "Tomato Basil Pasta",
-            "dishImage": "https://shortgirltallorder.com/wp-content/uploads/2021/06/tomato-basil-pasta-square.jpg",
+            "dishImage": "https://example.com/tomato-basil-pasta.jpg",
             "user": "ItalianFoodFanatic",
             "description": "Simple and flavorful pasta tossed in a fresh tomato and basil sauce.",
-            "rating": 4.7,
+            "rating": 5,
             "postedDate": "2023-11-04",
             "likes": 160,
             "saved": 90,
@@ -312,10 +312,10 @@
         },
         {
             "nameOfDish": "Mushroom Risotto",
-            "dishImage": "https://www.afamilyfeast.com/wp-content/uploads/2012/11/Mushroom-Risotto-3.jpg",
+            "dishImage": "https://example.com/mushroom-risotto.jpg",
             "user": "RisottoMasterChef",
             "description": "Creamy and savory mushroom risotto made with Arborio rice.",
-            "rating": 4.9,
+            "rating": 3.9,
             "postedDate": "2023-11-02",
             "likes": 210,
             "saved": 115,
@@ -352,10 +352,10 @@
         },
         {
             "nameOfDish": "Greek Salad",
-            "dishImage": "https://hips.hearstapps.com/hmg-prod/images/greek-salad-index-642f292397bbf.jpg?crop=0.6666666666666667xw:1xh;center,top&resize=1200:*",
+            "dishImage": "https://example.com/greek-salad.jpg",
             "user": "MediterraneanCuisine",
             "description": "A refreshing salad featuring crisp vegetables and tangy feta cheese.",
-            "rating": 4.7,
+            "rating": 2.7,
             "postedDate": "2023-10-30",
             "likes": 175,
             "saved": 100,
@@ -388,10 +388,11 @@
     ],
     "Users":[
         {
-            "user": "ChefJohn123",
-            "firstName": "John",
-            "lastName": "Smith",
-            "profilePicture": "https://example.com/avatar1.jpg",
+            "user": "velia",
+            "firstName": "velia",
+            "password":"velia123",
+            "lastName": "bianconi",
+            "profilePicture": "https://pngwala.com/files/preview/775x968/11698465875fa4zplofrmp7ld23ftiyb4grwqy5pgqnaqhkmesm6iqizdodx4xzwrrvbed3rgg6iyjwbxemcigybuhv5owykspcya300fs2honb.jpg",
             "nFollowers": 500,
             "followers": [
             "User1",
@@ -404,10 +405,10 @@
             "User5",
             "User6"
             ],
-            "numberOfPosts": 75,
+            "numberOfPosts": 4,
             "bio": "Passionate about creating delicious and easy-to-make recipes. Join me in exploring the world of cooking!",
             "location": "New York City, USA",
-            "email": "johnsmith@example.com",
+            "email": "veli@onvenus.com",
             "likedPosts": [
             "Pancakes",
             "Caesar Salad",
@@ -421,6 +422,7 @@
         },
         {
             "user": "BakingQueen89",
+            "password":"velia123",
             "firstName": "Emma",
             "lastName": "Johnson",
             "profilePicture": "https://example.com/avatar2.jpg",
@@ -453,6 +455,7 @@
         },
         {
             "user": "FitnessFoodie21",
+            "password":"velia123",
             "firstName": "Alex",
             "lastName": "Taylor",
             "profilePicture": "https://example.com/avatar3.jpg",
@@ -487,6 +490,7 @@
             "user": "SmoothieFanatic",
             "firstName": "Sophia",
             "lastName": "Clark",
+            "password":"velia123",
             "profilePicture": "https://example.com/avatar4.jpg",
             "nFollowers": 600,
             "followers": [
@@ -519,6 +523,7 @@
             "user": "GrillMasterChef",
             "firstName": "David",
             "lastName": "Anderson",
+            "password":"velia123",
             "profilePicture": "https://example.com/avatar5.jpg",
             "nFollowers": 900,
             "followers": [
@@ -551,6 +556,7 @@
             "user": "VeganFoodie23",
             "firstName": "Ava",
             "lastName": "Garcia",
+            "password":"velia123",
             "profilePicture": "https://example.com/avatar6.jpg",
             "nFollowers": 1100,
             "followers": [
@@ -583,6 +589,7 @@
             "user": "SpiceMasterChef",
             "firstName": "Olivia",
             "lastName": "Robinson",
+            "password":"velia123",
             "profilePicture": "https://example.com/avatar7.jpg",
             "nFollowers": 750,
             "followers": [
@@ -619,27 +626,27 @@
         },
         {
         "name":"Pasta",
-        "img":"https://confessionsofagroceryaddict.com/wp-content/uploads/2023/07/Breakfast-Banana-Split-Parfait-hero-6.jpg"
+        "img":"https://www.foodandwine.com/thmb/c-MBu_vMHq3EcoN_KPxwg-oZjKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pasta-Aglio-E-Olio-2-FT-RECIPE0123-38cd2045646a4635a80e8166f085fc7e.jpg"
         },
         {
         "name":"Salads",
-        "img":"https://confessionsofagroceryaddict.com/wp-content/uploads/2023/07/Breakfast-Banana-Split-Parfait-hero-6.jpg"
+        "img":"https://thewoodenskillet.com/wp-content/uploads/2020/07/grilled-chicken-salad-recipe-1-1.jpg"
         },
         {
         "name":"Appetisers",
-        "img":"https://confessionsofagroceryaddict.com/wp-content/uploads/2023/07/Breakfast-Banana-Split-Parfait-hero-6.jpg"
+        "img":"https://loveincorporated.blob.core.windows.net/contentimages/gallery/b15728c0-683f-4096-9dcb-daafde7659ab-ham-stilton-tartlets.jpg"
         },
         {
         "name":"Dessert",
-        "img":"https://confessionsofagroceryaddict.com/wp-content/uploads/2023/07/Breakfast-Banana-Split-Parfait-hero-6.jpg"
+        "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/dessert-main-image-molten-cake-0fbd4f2.jpg?resize=768,574"
         },
         {
         "name":"Cookies",
-        "img":"https://confessionsofagroceryaddict.com/wp-content/uploads/2023/07/Breakfast-Banana-Split-Parfait-hero-6.jpg"
+        "img":"https://handletheheat.com/wp-content/uploads/2020/10/BAKERY-STYLE-CHOCOLATE-CHIP-COOKIES-9-637x637-1-550x550.jpg"
         },
         {
         "name":"Cocktails",
-        "img":"https://confessionsofagroceryaddict.com/wp-content/uploads/2023/07/Breakfast-Banana-Split-Parfait-hero-6.jpg"
+        "img":"https://www.acouplecooks.com/wp-content/uploads/2021/05/Strawberry-Mojito-008.jpg"
         }
     ]
 }
