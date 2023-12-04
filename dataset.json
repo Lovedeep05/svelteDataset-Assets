@@ -70,7 +70,7 @@
         },
         {
             "nameOfDish": "Lemon Garlic Butter Shrimp",
-            "dishImage": "https://www.wholesomeyum.com/lemon-garlic-butter-shrimp/",
+            "dishImage": "https://www.wholesomeyum.com/wp-content/uploads/2022/01/wholesomeyum-Lemon-Garlic-Butter-Shrimp-Recipe-19.jpg",
             "user": "ChefSeafoodFanatic",
             "description": "Buttery and flavorful shrimp cooked with garlic and lemon.",
             "rating": 4.9,
@@ -171,7 +171,7 @@
         },
         {
             "nameOfDish": "Vegetable Stir-Fry",
-            "dishImage": "https://example.com/vegetable-stir-fry.jpg",
+            "dishImage": "https://peasandcrayons.com/wp-content/uploads/2020/12/vegetable-stir-fry-noodles-recipe-.jpg",
             "user": "velia",
             "description": "Colorful and nutritious stir-fried vegetables.",
             "rating": 1,
@@ -207,7 +207,7 @@
         },
         {
             "nameOfDish": "Banana Bread",
-            "dishImage": "https://example.com/banana-bread.jpg",
+            "dishImage": "https://nutricoscienza.it/wp-content/uploads/2021/03/banana__bread.jpeg",
             "user": "velia",
             "description": "Moist and delicious homemade banana bread.",
             "rating": 4.9,
@@ -244,7 +244,7 @@
         },
         {
             "nameOfDish": "Grilled Salmon with Lemon-Herb Butter",
-            "dishImage": "https://example.com/grilled-salmon.jpg",
+            "dishImage": "https://www.cookingclassy.com/wp-content/uploads/2018/05/grilled-lemon-herb-salmon-7-500x500.jpg",
             "user": "SeafoodChef",
             "description": "Flavorful grilled salmon fillets with a zesty lemon-herb butter.",
             "rating": 4.8,
@@ -278,7 +278,7 @@
         },
         {
             "nameOfDish": "Tomato Basil Pasta",
-            "dishImage": "https://example.com/tomato-basil-pasta.jpg",
+            "dishImage": "https://frommybowl.com/wp-content/uploads/2022/07/Spicy_Tomato_Basil_Pasta_Vegan_FromMyBowl-12.jpg",
             "user": "ItalianFoodFanatic",
             "description": "Simple and flavorful pasta tossed in a fresh tomato and basil sauce.",
             "rating": 5,
@@ -312,7 +312,7 @@
         },
         {
             "nameOfDish": "Mushroom Risotto",
-            "dishImage": "https://example.com/mushroom-risotto.jpg",
+            "dishImage": "https://www.afamilyfeast.com/wp-content/uploads/2012/11/Mushroom-Risotto-3.jpg",
             "user": "RisottoMasterChef",
             "description": "Creamy and savory mushroom risotto made with Arborio rice.",
             "rating": 3.9,
@@ -352,7 +352,7 @@
         },
         {
             "nameOfDish": "Greek Salad",
-            "dishImage": "https://example.com/greek-salad.jpg",
+            "dishImage": "https://www.onceuponachef.com/images/2023/06/greek-salad-1.jpg",
             "user": "MediterraneanCuisine",
             "description": "A refreshing salad featuring crisp vegetables and tangy feta cheese.",
             "rating": 2.7,
